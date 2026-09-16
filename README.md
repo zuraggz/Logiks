@@ -109,6 +109,6 @@ right after cloning without any setup. It only grants access to this sandbox col
 production, I would pass it in at build time with `--dart-define` and read it with
 `String.fromEnvironment`.
 
-restful-api.dev's free plan allows **100 requests per day**. If the list shows
+restful-api.dev's free plan allows **1000 requests per day**. If the list shows
 "Couldn't load Legos", the daily limit has probably been reached and it will work again once the
 limit resets.
